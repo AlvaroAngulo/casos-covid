@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+
+table thead {
+    background-color: #3180cf;
+    color: black;
+    text-align: center;
+}
